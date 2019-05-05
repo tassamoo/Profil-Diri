@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Self Profile</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="nama">Nama</string>
+    <string name="telp">Telp.</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">Simpan</string>
+    <string name="email">Email</string>
+    <string name="kembali">Kembali</string>
+    <string-array name="gender_list">
+        <item>Pilih Kelamin</item>
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+
+    </string-array>
+
+
+
+
+
+</resources>
